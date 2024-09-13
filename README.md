@@ -37,6 +37,14 @@ Use the forward() and right() methods to draw the sides of the squares.
 5. Answer to step 21
 6. Insert a screenshot or picture of the algorith you used for your tokenizer on the previous activity.
 7. Give an example of an undecidable problem, attach code.
-   
+
+READ ME
+This program creates concentric squares of different colors.
+
+Step 17 Output
+![image](https://github.com/user-attachments/assets/a794b5ff-6890-415c-9e48-36a16fe0acda)
+
+
+
 
 
